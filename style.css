@@ -1,3 +1,19 @@
 body {
+img {
+  width: 25%;
+  border: green 4px dotted;
+}
 
+body {
+  background-color: wheat;
+}
+h1 {
+  color: salmon;
+  text decoration: wavy 8px brown underline;
+    text-shadow: 0 0 13px gold;
+}
+
+img:hover {
+   <img src="img_snowtops.jpg" class="w3-circle" alt="Norway" style="width:50%">
+}
 }
