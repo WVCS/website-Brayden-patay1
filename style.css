@@ -1,4 +1,4 @@
-body {
+
 img {
   width: 25%;
   border: green 4px dotted;
@@ -16,4 +16,4 @@ h1 {
 img:hover {
    <img src="img_snowtops.jpg" class="w3-circle" alt="Norway" style="width:50%">
 }
-}
+
